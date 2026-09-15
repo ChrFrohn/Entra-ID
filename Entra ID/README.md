@@ -18,3 +18,4 @@ The code and documentation in this repository are provided "as is" without warra
 - [GetEntraGroupId.ps1](https://github.com/ChrFrohn/Entra/blob/main/Entra%20ID/GetEntraGroupId.ps1) - Script to get Entra group ID
 - [Set-EmployeeDivision.ps1](https://github.com/ChrFrohn/Entra/blob/main/Entra%20ID/Set-EmployeeDivision.ps1) - Script to set employee division
 - [Get-MemberOfDynamicGroups.ps1](https://github.com/ChrFrohn/Entra/blob/main/Entra%20ID/Get-MemberOfDynamicGroups.ps1) - Script to list dynamic membership groups that use the memberOf operator, which is retired after November 3, 2026
+- [Get-SmsVoiceRetirementReadiness.ps1](https://github.com/ChrFrohn/Entra/blob/main/Entra%20ID/Get-SmsVoiceRetirementReadiness.ps1) - Script to export authentication method registration details for active users and classify passkey readiness ahead of the SMS/Voice retirement on February 1, 2027
